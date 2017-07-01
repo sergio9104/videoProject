@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Top 10 cities of U.S</title>
+    <link rel="stylesheet" href="./app/index.css">
+</head>
+<body>
+    <main>  
+        <header>
+            <h1>TOP 10 AMERICAN CITIES</h1>
+            <p>I use for this <a href="https://www.youtube.com/watch?v=nrT5VN2NcpU" target="_blank">Top 10 AMERICAN CITIES</a> video and a webVTT metadata file that contains JSON objects:</p>
+        </header>
+        <video id="myVideo" controls crossorigin="anonymous">
+            <source src="./app/resources/Top_10_AMERICAN_CITIES.mp4" type="video/mp4">
+            <source src="./app/resources/Top_10_AMERICAN_CITIES.ogv" type="video/ogg">
+            <source src="./app/resources/Top_10_AMERICAN_CITIES.webm" type="video/webm">  
+            <track label="urls track" src="./app/resources/info.vtt" kind="metadata" >
+            </track>
+        </video>
+        <div id="map"></div>
+    </main>  
+    <aside>    
+        <iframe sandbox="allow-same-origin allow-scripts" id="myIframe" src="https://en.wikipedia.org/wiki/Estados_Unidos"></iframe>
+    </aside>
+     <script src="./app/index.js"></script>
+    <script src="https://maps.google.com/maps/api/js?sensor=false"></script>
+</body>
+</html>

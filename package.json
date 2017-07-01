@@ -1,0 +1,29 @@
+{
+  "name": "videoproject",
+  "version": "1.0.0",
+  "description": "In this project i show the 10 most big cities in the U.S, i created a video interface from scratch and i use the webVTT for show the location and the wikipedia page of the video city.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergio9104/videoProject.git"
+  },
+  "keywords": [
+    "video",
+    "subtitle",
+    "google-maps",
+    "webView"
+  ],
+  "author": "Sergio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergio9104/videoProject/issues"
+  },
+  "homepage": "https://github.com/sergio9104/videoProject#readme",
+  "dependencies": {
+    "connect": "^3.6.2",
+    "serve-static": "^1.12.3"
+  }
+}

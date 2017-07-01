@@ -1,0 +1,100 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:20.000
+{
+	"url": "https://en.wikipedia.org/wiki/Estados_Unidos",
+    "lat": "38.897203",
+    "long": "-77.036747",
+    "zoom": 3
+}
+
+2
+00:00:20.000 --> 00:01:14.000
+{
+    "url": "https://en.wikipedia.org/wiki/Chicago",
+    "lat": "41.857848",
+    "long": "-87.630286",
+    "zoom": 12
+}
+
+3
+00:01:14.000 --> 00:02:05.000
+{
+    "url": "https://en.wikipedia.org/wiki/San_Francisco",
+    "lat": "37.768506",
+    "long": "-122.423862",
+    "zoom": 12
+}
+
+4
+00:02:05.000 --> 00:03:24.000
+{
+    "url": "https://en.wikipedia.org/wiki/Boston",
+    "lat": "42.367108",
+    "long": "-71.058780",
+    "zoom": 12
+}
+
+5
+00:03:24.000 --> 00:04:35.000
+{
+    "url": "https://en.wikipedia.org/wiki/Nueva_Orleans",
+    "lat": "29.966967",
+    "long": "-90.061743",
+    "zoom": 12
+}
+
+6
+00:04:35.000 --> 00:06:06.000
+{
+    "url": "https://en.wikipedia.org/wiki/New_York_City",
+    "lat": "40.762303",
+    "long": "-73.979642",
+    "zoom": 10
+}
+
+7
+00:06:06.000 --> 00:06:44.000
+{
+    "url": "https://en.wikipedia.org/wiki/Los_Angeles",
+    "lat": "34.027317",
+    "long": "-118.242542",
+    "zoom": 12
+}
+
+8
+00:06:44.000 --> 00:07:41.000
+{
+    "url": "https://en.wikipedia.org/wiki/Portland,_Oregon",
+    "lat": "45.531689",
+    "long": "-122.680203",
+    "zoom": 12
+}
+
+9
+00:07:41.000 --> 00:08:56.000
+{
+    "url": "https://en.wikipedia.org/wiki/Austin,_Texas",
+    "lat": "30.280028",
+    "long": "-97.737998",
+    "zoom": 12
+}
+
+10
+00:08:56.000 --> 00:10:01.000
+{
+    "url": "https://en.wikipedia.org/wiki/Las_Vegas",
+    "lat": "36.156675",
+    "long": "-115.173511",
+    "zoom": 12
+}
+
+11
+00:10:01.000 --> 00:11:24.000
+{
+    "url": "https://en.wikipedia.org/wiki/Miami",
+    "lat": "25.797631",
+    "long": "-80.271426",
+    "zoom": 11
+}
